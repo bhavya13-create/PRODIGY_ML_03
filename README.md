@@ -2,6 +2,9 @@
 # 🐱🐶 Cat vs Dog Image Classification using SVM
 This project demonstrates a simple **image classification pipeline** for distinguishing cats and dogs using **Support Vector Machines (SVM)**. The images are loaded directly from a ZIP file, preprocessed, and visualized using **PCA** and sample plots.
 
+This repository provides a comprehensive implementation of a Support Vector Machine (SVM) to classify images of cats and dogs using the popular [Kaggle Cats and Dogs dataset](https://www.kaggle.com/c/dogs-vs-cats/data). The project includes data preprocessing, model training, evaluation, and saving the trained model.
+
+
 ## Features
 
 - Load images directly from a ZIP file without extraction.  
